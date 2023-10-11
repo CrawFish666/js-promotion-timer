@@ -20,6 +20,7 @@ promoTimer({
 })
 ```
 ## Example
+### [watch example](https://crawfish666.github.io/js-promotion-timer/)
 ```sh
 import promoTimer from "js-promotion-timer";
 promoTimer({
