@@ -1,6 +1,7 @@
 // .promotion__timer
 
 
+
 function promoTimer({ timePromotionEnd, timerSelector, clockSelectors }) {
 	try {
 		// Задаем конец промо акции
